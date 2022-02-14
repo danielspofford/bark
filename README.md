@@ -6,7 +6,7 @@ Defines four macros which facilitate shorter log lines in source and provide a c
 
 ---
 
-Include Bark as a dependency:
+Include Bark as a dependency: test
 
 ```elixir
 {:bark, github: "gringill/bark"}
